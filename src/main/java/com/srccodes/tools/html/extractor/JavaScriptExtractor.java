@@ -9,6 +9,8 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 /**
+ * @author Abhijit Ghosh
+ * @version 1.0
  * 
  */
 public class JavaScriptExtractor {
